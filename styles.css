@@ -75,7 +75,7 @@ header .profile-image {
   transition: all .6s;
 }
 header .profile-image:hover {
-  transform: scale(1.3) rotate(5deg);
+  transform: scale(1.3) rotate(6deg);
 }
 .tag {
   background-color: #e8ecf0;
